@@ -1,7 +1,10 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a 25 year old full-stack developer, with a background in audit accounting and real estate investment. I have a lot of real world business experience from my time at the accounting big 4, as well as experience with data. I speak English, French, Spanish and workable Italian, although I have shifted my focus to silicone-based languages I still read in foreign languages whenever I can
 
+Then a sentence about what you've achieved.
+
+All aspects of tech excite me, as I am constantly curious of how the world will be in the near future. I am a software developer but I have a strong interest in robotics and AI and keep up to date with developments in these fields in my spare time.
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
