@@ -33,12 +33,22 @@ _Intern_
 - Translated valuation summaries from Spanish to English for presentation to clients
 - Worked on pricing for new properties based on identified key variables
 
+**The Ice Wharf (Wetherspoons)**
+_Bar Staff_
+
+- Customer service in a fast-paced environment
+- Good people skills required for (often intoxicated) clientele
+
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+**Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.**
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+**Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had.** 
 
+#### Fast Learner
+- Capable of learning and working on the fly. I had to balance exam study and full-time work at PwC, which taught me to be resourceful with my time.
+- Learned new technologies such as React and MongoDB while working on projects. This taught me that I can thrive under pressure, and also that this was the best way to learn new technologies; applying them while doing research and learning.
+- Used to being thrown in at the deep end: whether moving to a French school with zero French, or joining a Spanish company and working full-time in my third language
 
 Here's an example
 
