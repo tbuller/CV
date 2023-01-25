@@ -1,8 +1,8 @@
 ## Tim Buller
 
-I am a 25 year old full-stack developer, with a background in audit accounting and real estate investment. I have a lot of real world business experience from my time at the accounting big 4, as well as experience with data. I speak English, French, Spanish and workable Italian, although I have shifted my focus to silicone-based languages I still read in foreign languages whenever I can
+Hi, I'm Tim! I'm a 25 year old full-stack developer, with a background in audit accounting and real estate investment. I have a lot of real world business experience from my time at the accounting big 4, as well as experience with data. I speak English, French, Spanish and workable Italian, and although I have shifted my focus to silicone-based languages, I still read in foreign languages whenever I can.
 
-During my education, I was appointed scholar at my school for achieving all A stars and A's at GCSE. I studied at King's College London, although I didn't complete my degree there
+During my education, I was appointed scholar at my school for achieving all A stars and A's at GCSE. I studied Business Management and Spanish at King's College London, although I didn't complete my degree there
 
 All aspects of tech excite me, as I am constantly curious of how the world will be in the near future. I am a software developer but I have a strong interest in robotics and AI and keep up to date with developments in these fields in my spare time.
 ## Projects
@@ -10,8 +10,8 @@ All aspects of tech excite me, as I am constantly curious of how the world will 
 | Project                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [acebook](https://github.com/tbuller/acebook-hybrid.git)            | A full-stack Facebook clone, built with MERN. Users can sign in with JWT authentication, and once logged in, they can create posts, like posts, and comment on the posts of other users | React, Express.js, MongoDB, Node.js, JavaScript, CSS, HTML, Cypress |
-| [tipsy-tourist](https://github.com/tbuller/tipsy-tourist.git) | A single page, interactive pub crawl/day planner application. Users can select a start point and an end point, and with the help of a series of Google API's, the application will plan a route with stops | React, JavaScript, Express.js, Chakra-UI, Node.js              |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [tipsy-tourist](https://github.com/tbuller/tipsy-tourist.git) | A single page, interactive pub crawl/day planner application. Users can select a start point and an end point, and with the help of a series of Google API's, the application will plan a route with stops | React, JavaScript, Express.js, Chakra-UI, Node.js, HTML              |
+| [workout-tracker](https://github.com/tbuller/mern-stack.git) | A webapp to add your workouts to a database and visualise them. Built using a MERN stack, users can dynamically update the page's content by creating/deleting workouts |   React, JavaScript, Express.js, Node.js, HTML, CSS            |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 ## Work Experience
@@ -71,4 +71,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-In my spare time, I enjoy reading books (currently I'm reading an Italian book called le tre del mattino) doing exercise such as running, and following sports such as basketball and rugby.
+In my spare time, I enjoy reading books (currently I'm reading an Italian book called Le tre del mattino), doing exercise such as running, and following sports such as basketball and rugby.
