@@ -25,7 +25,7 @@ _Audit Associate_
 - Gained skills through daily use of Excel, with which we manipulated large quantities of data
 - Collaborated remotely with team members via Google software
 
-**Basico Homes** (September 2018 – January 2019)  
+**Basico Homes** (September 2018 to January 2019)  
 _Intern_
 
 - Produced data for valuation teams, and management reports for department head and CEO
@@ -33,7 +33,7 @@ _Intern_
 - Translated valuation summaries from Spanish to English for presentation to clients
 - Worked on pricing for new properties based on identified key variables
 
-**The Ice Wharf (Wetherspoons)** (September 2017 – March 2018)
+**The Ice Wharf (Wetherspoons)** (September 2017 to March 2018)
 _Bar Staff_
 
 - Customer service in a fast-paced environment
@@ -70,14 +70,13 @@ I provided mentoring for new joiners of PwC. I showed the new joiners how to car
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (September 2022 to January 2023)
+Selective full-stack software development bootcamp
+- Learnt new programming languages and successfully implemented them in projects, combining them with various technologies such as the MERN stack
+- Emphasis on OOP and TDD (jest, rsepc), instilling good programming practices
+- Focus on group work i.e. pairing and working with AGILE principles. This has been beneficial to my ability to collaborate with others as well as my communication skills
+- Heavy reliance on github for version control, as well as Trello and Miro for stand-ups
+- Use of databases such as PostgreSQL and MongoDB
 
 #### Your University / College (start_date to end_date)
 
@@ -85,9 +84,10 @@ I provided mentoring for new joiners of PwC. I showed the new joiners how to car
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+#### Other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+**at in some arguable way make you a better software developer or well-rounded person**
+-CFAB accounting certification
 
 ## Hobbies
 
