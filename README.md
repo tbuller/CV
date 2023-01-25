@@ -1,4 +1,4 @@
-## Your Name
+## Tim Buller
 
 I am a 25 year old full-stack developer, with a background in audit accounting and real estate investment. I have a lot of real world business experience from my time at the accounting big 4, as well as experience with data. I speak English, French, Spanish and workable Italian, although I have shifted my focus to silicone-based languages I still read in foreign languages whenever I can
 
@@ -7,10 +7,10 @@ During my education, I was appointed scholar at my school for achieving all A st
 All aspects of tech excite me, as I am constantly curious of how the world will be in the near future. I am a software developer but I have a strong interest in robotics and AI and keep up to date with developments in these fields in my spare time.
 ## Projects
 
-| Name                         | Description       | Links             |Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |----------------- |
-| [acebook](https://github.com/tbuller/acebook-hybrid.git)            | A Facebook clone, built using the MERN stack | React, Jest, etc. |React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |Ruby              |
+| Name                         | Description                    |Tech/tools        |
+| ---------------------------- | -----------------   |----------------- |
+| [acebook](https://github.com/tbuller/acebook-hybrid.git)            | A  full stack Facebook clone, built with MERN and using JWT authentication. Users can create posts, as well as liking and commenting on other people's posts. | React, Jest, etc. |React, Jest, etc. |
+| **Something else worked on** | A webapp to do y.  Ruby              |Ruby              |
 
 ## Work Experience
 
