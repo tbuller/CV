@@ -69,4 +69,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+In my spare time, I enjoy reading books (currently I'm reading an Italian book called le tre del mattino) doing exercise such as running, and following sports such as basketball and rugby.
