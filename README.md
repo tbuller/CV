@@ -9,7 +9,10 @@ All aspects of tech excite me, as I am constantly curious of how the world will 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| [acebook](https://github.com/tbuller/acebook-hybrid.git)            | A full-stack Facebook clone, built with MERN. Users can sign in with JWT authentication, and once logged in, they can create posts, like posts, and comment on the posts of other users | React, Express.js, MongoDB, Node.js, JavaScript, CSS, HTML, Cypress |
+| [tipsy-tourist](https://github.com/tbuller/tipsy-tourist.git) | A single page, interactive pub crawl/day planner application. Users can select a start point and an end point, and with the help of a series of Google API's, the application will plan a route with stops | React, JavaScript, Express.js, Chakra-UI, Node.js              |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 ## Work Experience
 
