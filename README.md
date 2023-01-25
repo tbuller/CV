@@ -16,15 +16,22 @@ All aspects of tech excite me, as I am constantly curious of how the world will 
 | [chitter](https://github.com/tbuller/chitter-challenge.git) | A Twitter clone web-app where you can create an account, log in and share your thoughts with other users! Built with Ruby and Sinatra, using PostgreSQL as the database | Ruby, Sinatra, PostgreSQL, HTML, CSS              |
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**PwC** (September 2019 to July 2021)  
+_Audit Associate_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Performed audits of the financial statements of major companies (including some tech companies)
+- Worked in teams to deliver quality audits
+- Studied for and passed exams while working
+- Gained skills through daily use of Excel, with which we manipulated large quantities of data
+- Collaborated remotely with team members via Google software
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Basico Homes** (start-date to end-date)  
+_Intern_
 
-- Any experience relevent to software development
+- Produced data for valuation teams, and management reports for department head and CEO
+- Analysed income generation potential of real estate assets
+- Translated valuation summaries from Spanish to English for presentation to clients
+- Worked on pricing for new properties based on identified key variables
 
 ## Skills
 
