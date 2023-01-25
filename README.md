@@ -7,11 +7,10 @@ During my education, I was appointed scholar at my school for achieving all A st
 All aspects of tech excite me, as I am constantly curious of how the world will be in the near future. I am a software developer but I have a strong interest in robotics and AI and keep up to date with developments in these fields in my spare time.
 ## Projects
 
-| Name                         | Description                    |Tech/tools        |
-| ---------------------------- | -----------------   |----------------- |
-| [acebook](https://github.com/tbuller/acebook-hybrid.git)            | A  full stack Facebook clone, built with MERN and using JWT authentication. Users can create posts, as well as liking and commenting on other people's posts. | React, Jest, etc. |React, Jest, etc. |
-| **Something else worked on** | A webapp to do y.  Ruby              |Ruby              |
-
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby              |
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
