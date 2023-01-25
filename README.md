@@ -12,8 +12,8 @@ All aspects of tech excite me, as I am constantly curious of how the world will 
 | [acebook](https://github.com/tbuller/acebook-hybrid.git)            | A full-stack Facebook clone, built with MERN. Users can sign in with JWT authentication, and once logged in, they can create posts, like posts, and comment on the posts of other users | React, Express.js, MongoDB, Node.js, JavaScript, CSS, HTML, Cypress |
 | [tipsy-tourist](https://github.com/tbuller/tipsy-tourist.git) | A single page, interactive pub crawl/day planner application. Users can select a start point and an end point, and with the help of a series of Google API's, the application will plan a route with stops | React, JavaScript, Express.js, Chakra-UI, Node.js, HTML              |
 | [workout-tracker](https://github.com/tbuller/mern-stack.git) | A webapp to add your workouts to a database and visualise them. Built using a MERN stack, users can dynamically update the page's content by creating/deleting workouts |   React, JavaScript, Express.js, Node.js, HTML, CSS            |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [makers-bnb](https://github.com/tbuller/makers-bnb.git) | A AirBnb clone built with Ruby and Sinatra. Users can add a listing, as well as book stays at the listings added by other users | Ruby, Sinatra, PostgreSQL, HTML, CSS              |
+| [chitter](https://github.com/tbuller/chitter-challenge.git) | A Twitter clone web-app where you can create an account, log in and share your thoughts with other users! Built with Ruby and Sinatra, using PostgreSQL as the database | Ruby, Sinatra, PostgreSQL, HTML, CSS              |
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
