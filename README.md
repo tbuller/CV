@@ -1,10 +1,11 @@
 ## Tim Buller
 
-Hi, I'm Tim! I'm a 25 year old full-stack developer, with a background in audit accounting and real estate investment. I have a lot of real world business experience from my time at the accounting big 4, as well as experience with data. I speak English, French, Spanish and workable Italian, and although I have shifted my focus to silicone-based languages, I still read in foreign languages whenever I can.
+I'm a 25 year old full-stack developer, and have professional experience in accounting, finance, real estate and hospitality.  My very first job felt like an introduction to the power of data, and I have worked my way up to successfully completing the Makers coding bootcamp. 
 
-During my education, I was appointed scholar at my school for achieving all A stars and A's at GCSE. I studied Business Management and Spanish at King's College London, although I didn't complete my degree there
+As an accountant at one of the big 4 I created data-heavy spreadsheets; in my hospitality, finance and real-estate roles I honed my numerical and people skills. Besides numbers, I have always been interested in languages (I am bilingual English-French, but also speak Spanish and workable Italian). Although I have now shifted my focus to more computer-based languages, I still cherish opportunities to practice and maintain my languages.
 
-All aspects of tech excite me, as I am constantly curious of how the world will be in the near future. I am a software developer but I have a strong interest in robotics and AI and keep up to date with developments in these fields in my spare time.
+All aspects of tech excite me; I am avidly curious about how the world will be in the near future. Although a dedicated software developer, I have a strong interest in robotics and AI and keep up to date with developments in these areas. I feel that by staying close to related fields I will better understand the context of the work that I am doing.
+
 ## Projects
 
 | Project (Repo)                                | Description       | Tech/tools        |
