@@ -43,8 +43,6 @@ _Bar Staff_
 
 ## Skills
 
-**Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.**
-
 #### Fast Learner
 - Capable of learning on the fly
 - Learned new technologies such as React and MongoDB while on the job. This taught me that I can thrive under pressure. I also found that learning by doing is one of the best ways to continually improve
