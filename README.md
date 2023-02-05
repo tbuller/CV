@@ -62,7 +62,7 @@ _Selective full-stack software development bootcamp_
 - Heavy reliance on Github for version control, as well as Trello and Miro for stand-ups
 - Use of databases such as PostgreSQL and MongoDB
 
-#### King's College London (September 2016 - September 2018) - did not complete
+#### King's College London (September 2016 - June 2017) - did not complete
 
 - Spanish and Business Management
 
