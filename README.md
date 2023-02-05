@@ -60,8 +60,8 @@ I am capable of learning on the fly. This is evidenced by my time at PwC, during
 
 #### Makers Academy (September 2022 to January 2023)
 _Selective full-stack software development bootcamp_
-- Learnt new programming languages and successfully implemented them in projects, combining them with various technologies such as technologies used in the MERN stack
-- Emphasis on OOP and TDD (jest, rspec), instilling good programming practices
+- Learnt new programming languages and successfully implemented them in projects, combining them with various technologies such as those used in the MERN stack
+- Emphasis on OOP and TDD (jest, rspec, cypress), instilling good programming practices
 - Focus on group work i.e. pairing and working with AGILE principles. This has been beneficial to my ability to collaborate with others as well as my communication skills
 - Heavy reliance on Github for version control, as well as Trello and Miro for stand-ups
 - Use of databases such as PostgreSQL and MongoDB
@@ -78,4 +78,4 @@ _Selective full-stack software development bootcamp_
 
 ## Hobbies
 
-In my spare time, I enjoy reading books (currently I'm reading an Italian book called Le tre del mattino), doing exercise such as running, and following sports such as basketball and rugby.
+In my spare time, I enjoy reading books (currently I'm reading an Italian book called Le tre del mattino), doing exercise such as running, and following sports such as basketball and rugby. I also enjoy keeping up to date with the latest advancements/discoveries about space and tech (web-development, AI, robotics) via online forums.
