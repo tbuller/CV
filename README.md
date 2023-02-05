@@ -44,8 +44,7 @@ _Bar Staff_
 ## Skills
 
 #### Fast Learner
-- Capable of learning on the fly
-- Learned new technologies such as React and MongoDB while on the job. This taught me that I can thrive under pressure. I also found that learning by doing is one of the best ways to continually improve
+I am capable of learning on the fly. This is evidenced by my time at PwC, during which I played key roles in teams that filed the accounts of large clients, all while I was studying for the ACA accounting exams. Furthermore, during my time at Makers I taught myself new technologies such as React, Express and MongoDB, all while working on a project that implemented these same technologies. This taught me that I can thrive under pressure and confirmed that this approach was the most suited to my learning style. Learning by doing is best way to continually improve in my opinion.
 
 #### A multi-tasker with good time management skills
 - Balanced exam study and full-time work at PwC, which taught me to be resourceful with my time and remain focused on more than one goal
