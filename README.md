@@ -44,17 +44,13 @@ _Bar Staff_
 ## Skills
 
 #### Fast Learner
-I am capable of learning on the fly. This is evidenced by my time at PwC, during which I played key roles in teams that filed the accounts of large clients, all while I was studying for the ACA accounting exams. Furthermore, during my time at Makers I taught myself new technologies such as React, Express and MongoDB, all while working on a project that implemented these same technologies. This taught me that I can thrive under pressure and confirmed that this approach was the most suited to my learning style. Learning by doing is best way to continually improve in my opinion.
+I am capable of learning on the fly. This is evidenced by my time at PwC, during which I played key roles in teams that filed the accounts of large clients, all while I was studying for the ACA accounting exams. Furthermore, during my time at Makers I taught myself new technologies such as React, Express and MongoDB, while simultaneously working on projects that implemented these same technologies. This taught me that I can thrive under pressure and confirmed that this approach was the most suited to my learning style. Learning by doing is the best way to continually improve in my opinion.
 
-#### A multi-tasker with good time management skills
-- Balanced exam study and full-time work at PwC, which taught me to be resourceful with my time and remain focused on more than one goal
-- Used to being thrown in at the deep end: whether moving to a French school with zero French, or joining a Spanish company and working full-time in my third language
+#### An adaptable multi-tasker with good time management
+Balancing exam study and full-time work taught me to be resourceful with my time and remain focused on more than one goal. I am used to being thrown in at the deep end: whether moving to a French school with zero French, or joining a Spanish company and working full-time in my third language, I am able to adapt and align myself to new environments, always hitting the ground running.
 
 #### Collaborator and mentor
-- Provided mentoring for new hires at PwC 
-- Trained new staff to conduct key audit procedures, to solicit key information from clients and to correctly interpret the data
-- Provided Excel/technical training to audit personnel. The act of teaching tested my understanding to the limits, while sharpening my interpersonal skills and my ability to “read the room”
-- Tutored maths and French at school, a role I really enjoyed
+I provided training for new hires at PwC where I demonstarted how to conduct key audit procedures, how to solicit information from clients and how to correctly interpret data, and received excellent feedback for my mentoring. This showcases strong communication skills and an ability to break down abstract concepts in a digestible way. I also provided Excel/technical training to audit personnel. The act of teaching tested and improved my understanding, while sharpening my interpersonal skills and my ability to relate to others. Furthermore, I tutored Maths and French at school, a role I thoroughly enjoyed.
 
 ## Education
 
