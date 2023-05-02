@@ -10,11 +10,11 @@ All aspects of tech excite me; I am avidly curious about how the world will be i
 
 | Project (Repo)                                | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [weatherbook](https://github.com/tbuller/weatherbook.git)            | A full-stack weather-based social media application, built with MERN. Users can create posts with data from a weather web API, like posts, comment on posts, like comments, add friends and send messages to other users | React, Express.js, MongoDB, Node.js, JavaScript, Sass, HTML |
+| [weatherbook](https://github.com/tbuller/weatherbook.git)            | A full-stack weather-based social media application, built with MERN. Users can create posts with data from a weather web API, like posts, comment on posts, like comments, add friends and send messages to other users | React, JavaScript, Express.js, MongoDB, Node.js, Sass, HTML |
 | [tipsy-tourist](https://github.com/tbuller/tipsy-tourist.git) | A single page, interactive pub crawl/day planner application. Users can select a start point and an end point, and with the help of a series of Google API's, the application will plan a route with stops | React, JavaScript, Express.js, Chakra-UI, Node.js, HTML              |
 | [fluent-recall](https://github.com/tbuller/fluent-recall.git) | A webapp with which you can create langauge flashcards, and practice with them to improve your fluency. Your progress is tracked and stored, so you can see which words you need more practice on |   React, TypeScript, Express.js, Node.js, HTML, Sass            |
-| [makers-bnb](https://github.com/tbuller/makers-bnb.git) | A AirBnb clone built with Ruby and Sinatra. Users can add a listing, as well as book stays at the listings added by other users | Ruby, Sinatra, PostgreSQL, HTML, CSS              |
-| [chitter](https://github.com/tbuller/chitter-challenge.git) | A Twitter clone web-app where you can create an account, log in and share your thoughts with other users! Built with Ruby and Sinatra, using PostgreSQL as the database | Ruby, Sinatra, PostgreSQL, HTML, CSS              |
+| [super-scrabble](https://github.com/tbuller/super-scrabble.git) | A full stack scrabble game in which you can enter multiple players, and keep track of your wins and losses | React, TypeScript, Express.js, Node.js, HTML, Sass              |
+| [all-purpose-orgainser](https://github.com/tbuller/all-purpose-organiser.git) | A full-stack planner application, designed to satisfy all your organisational needs. The application has a calendar feature, with which you can create events. You can also make notes and add items to your shopping list | React, TypeScript, Express.js, Node.js, HTML, Sass              |
 ## Work Experience
 
 **PwC** (September 2019 to July 2021)  
